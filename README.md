@@ -42,3 +42,5 @@ There are various methods included in the 'Single Linked List' file such as:
 
 ** The example of how all these work can be found in 'implementation.java'
 
+**Any comments or suggestions will be greatly appreciated**
+
